@@ -1,51 +1,47 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2420,50:8B6144,100:C4A580&height=200&section=header&text=1337ophellia%20%E2%9C%A8&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cyber%20Security%20and%20GNU/Linux%20Enthusiast&descSize=16&descAlignY=55" width="100%"/>
-<div>  
-<img width="337" src="./img/top_profile.png" align=right />
-<br/>
-<img src="./img/top_about.png" width="488" />
-<br/>
-<br/>
-<br/>
+<h1 align="center"> Hi!  <a href="https://emoji.gg/emoji/2696-hellokitty-sparkle"><img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="64px" height="64px" alt="hellokitty_sparkle"></a>, I'm YOUR NAME! <img height="40" <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="64px" height="64px" alt="Moon"></a></h1>
+<h3 align="center">A passionate Computer Engineering Student and a beginner Unity developer from YOUR COUNTRY</h3>
 
-- Name: **Reidho Satria**.
+- <a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> I’m currently working on **Paribu Hub - Smart Contract & Solidity Practicum**
 
-- From: **Palembang, South Sumatra, Indonesia**.
+- <a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> I’m currently learning **TypeScript, Solidity and Unity**
 
-- Day job: **Cybersecurity Analyst** & **CTF Player**.
+- <a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> What I like to do: **I like gaming, handcrafts and fashion...and coding of course!**
 
-- Currently: studying [**Computer Science**](https://if.uigm.ac.id/home/) at **UIGM**.
+<h3 align="center">Connect with me:</h3>
+<div align="center">
 
-- Also: Vice-President of [@linuxuigm](https://github.com/linuxuigm), **GNU/Linux** Enthusiast.
-
-- Off the clock: VSPO! fan, breaking things for fun.
-
-<img src="./img/top-langs.svg" align=right />
-<br/>
-<br/>
-<img src="./img/mid_archive.png" width="488" />
-<br/>
-<br/>
+[![image](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![image](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![image](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
   
-<!-- BLOG_RSS_START -->
-- 🦋 [***SEKAICTF 2026 - Open World - Blockchain Writeup***](https://blog.rei.my.id/posts/163/sekaictf-2026-open-world-blockchain-writeup/)
-- 🦋 [***SEKAICTF 2026 - Survey - Miscellaneous Writeup***](https://blog.rei.my.id/posts/166/sekaictf-2026-survey-miscellaneous-writeup/)
-- 🦋 [***SEKAICTF 2026 - Outer Stellar - Blockchain Writeup***](https://blog.rei.my.id/posts/164/sekaictf-2026-outer-stellar-blockchain-writeup/)
-- 🦋 [***SEKAICTF 2026 - PP Farming 2 - Blockchain Writeup***](https://blog.rei.my.id/posts/165/sekaictf-2026-pp-farming-2-blockchain-writeup/)
-- 🦋 [***SCSC2026 Final - pwn revenggeeee - Binary Exploitation Writeup***](https://blog.rei.my.id/posts/149/scsc2026-final-pwn-revenggeeee-binary-exploitation-writeup/)
-- 🦋 [***SCSC2026 Final - The Predictable Oracle - Cryptography Writeup***](https://blog.rei.my.id/posts/150/scsc2026-final-the-predictable-oracle-cryptography-writeup/)
-- 🦋 [***SCSC2026 Final - soal gampang - Binary Exploitation Writeup***](https://blog.rei.my.id/posts/148/scsc2026-final-soal-gampang-binary-exploitation-writeup/)
-- 🦋 [***SCSC2026 Final - ROT - Cryptography Writeup***](https://blog.rei.my.id/posts/151/scsc2026-final-rot-cryptography-writeup/)
-- 🦋 [***SCSC2026 Final - Paper Leak - Cryptography Writeup***](https://blog.rei.my.id/posts/152/scsc2026-final-paper-leak-cryptography-writeup/)
-- 🦋 [***SCSC2026 Final - Deskripsi Palsu - Cryptography Writeup***](https://blog.rei.my.id/posts/153/scsc2026-final-deskripsi-palsu-cryptography-writeup/)
-<!-- BLOG_RSS_END -->
-
-<img src="./img/mid_profile.png" width="270" align="right" />
-<br/>
-<img src="./img/mid_banner.png" width="500" /><br/>
-<sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@rei.my.id</sub>
-<br/><br/>
-<p align='center'>
-<a href="#"><img src="https://img.shields.io/badge/%23-4b0f08?style=for-the-badge"/></a> <a href="https://blog.rei.my.id"><img src="https://img.shields.io/badge/WEBSITE-4b0f08?style=for-the-badge"/></a> <a href="https://facebook.com/elliottophellia"><img src="https://img.shields.io/badge/FACEBOOK-4b0f08?style=for-the-badge"/></a> <a href="https://twitter.com/elliottophellia"><img src="https://img.shields.io/badge/TWITTER-4b0f08?style=for-the-badge"/></a> <a href="https://instagram.com/elliottophellia"><img src="https://img.shields.io/badge/INSTAGRAM-4b0f08?style=for-the-badge"/></a> <a href="https://threads.net/@elliottophellia"><img src="https://img.shields.io/badge/THREAD-4b0f08?style=for-the-badge"/></a> <a href="https://t.me/elliottophellia"><img src="https://img.shields.io/badge/TELEGRAM-4b0f08?style=for-the-badge"/></a> <a href="https://linkedin.com/in/elliottophellia"><img src="https://img.shields.io/badge/LINKEDIN-4b0f08?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-4b0f08?style=for-the-badge"/></a>
-</p>
-<img src="./img/bottom_banner.png" width="100%" align="center" />
 </div>
+
+<h3 align="center">Languages and Tools:</h3>
+
+<p align="center"> 
+  <a href="https://www.w3.org/java/" target="_blank"> 
+ <a href="https://emoji.gg/emoji/java"><img src="https://cdn3.emoji.gg/emojis/java.png" width="40px" height="40px" alt="java"></a>
+ </a>
+  <a href="https://www.w3schools.com/typescript/" target="_blank"> 
+  <a href="https://emoji.gg/emoji/8584-typescript"><img src="https://cdn3.emoji.gg/emojis/8584-typescript.png" width="40px" height="40px" alt="TypeScript"></a>
+  </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/csharp" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  </a>
+ 
+</p>
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=beyzaerf&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzaerf&theme=react&layout=compact" />
+</p>
+
+<p align= "center">
+  <a href="https://emoji.gg/emoji/5349-hellokittybyebye"><img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="128px" height="128px" alt="HelloKittyByeBye"></a>
+</p>
