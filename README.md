@@ -8,9 +8,9 @@
 
 ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
 
-<sub>19 &nbsp;·&nbsp; brazil &nbsp;·&nbsp; she/her</sub>
+<sub>15 &nbsp;·&nbsp; brazil &nbsp;·&nbsp; she/her</sub>
 
-⡞⠳⣄⣀⣠⠞⢷ ֹ۪
+**⡞⠳⣄⣀⣠⠞⢷ ֹ۪**
 
 </div>
 
