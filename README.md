@@ -83,8 +83,17 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=1&pause=1000&color=F4A6C0&center=true&vCenter=true&repeat=false&width=300&height=45&lines=%E2%9C%A7+let's+talk+%E2%9C%A7" alt="let's talk">
 
-♡ &nbsp; instagram — <a href="https://www.instagram.com/heneedsmern"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=18&duration=1&pause=1000&color=F4A6C0&vCenter=true&repeat=false&width=150&height=28&lines=%40heneedsmern" alt="@heneedsmern" align="absmiddle"></a> <br>
+<table align="center" width="600">
+<tr>
+<td width="100%" align="center">
+
+♡ &nbsp; instagram — <a href="https://www.instagram.com/heneedsmern"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=18&duration=1&pause=1000&color=F4A6C0&vCenter=true&repeat=false&width=150&height=28&lines=%40heneedsmern" alt="@heneedsmern" align="absmiddle"></a>
+
 ♡ &nbsp; discord — <a href="https://discord.com/users/1151300365178912839"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=18&duration=1&pause=1000&color=F4A6C0&vCenter=true&repeat=false&width=120&height=28&lines=dearlylies" alt="dearlylies" align="absmiddle"></a>
+
+</td>
+</tr>
+</table>
 
 <br>
 
